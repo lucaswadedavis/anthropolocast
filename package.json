@@ -2,12 +2,19 @@
   "name": "anthropolocast",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lucaswadedavis.github.io/anthropolocast",
+  "homepage": "https://anthropolocast.com",
   "dependencies": {
     "gh-pages": "^2.0.1",
+    "rc-slider": "^8.6.1",
     "react": "^16.5.2",
+    "react-bootstrap": "^0.32.1",
+    "react-burger-menu": "^2.4.4",
     "react-dom": "^16.5.2",
-    "react-scripts": "2.0.5"
+    "react-resize-detector": "^2.3.0",
+    "react-router-bootstrap": "^0.24.4",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "2.0.5",
+    "recharts": "^1.0.0-beta.10"
   },
   "scripts": {
     "predeploy": "npm run build",
