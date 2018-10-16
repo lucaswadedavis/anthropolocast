@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.c7e85a2f.chunk.css",
-  "main.js": "/static/js/main.e04f7ac2.chunk.js",
-  "main.js.map": "/static/js/main.e04f7ac2.chunk.js.map",
-  "static/js/1.6105a37c.chunk.js": "/static/js/1.6105a37c.chunk.js",
-  "static/js/1.6105a37c.chunk.js.map": "/static/js/1.6105a37c.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-  "static/css/main.c7e85a2f.chunk.css.map": "/static/css/main.c7e85a2f.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.53b9372816b31dd0fca227f73e7d99a4.js": "/precache-manifest.53b9372816b31dd0fca227f73e7d99a4.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/anthropolocast/static/css/main.c7e85a2f.chunk.css",
+  "main.js": "/anthropolocast/static/js/main.4d361ba4.chunk.js",
+  "main.js.map": "/anthropolocast/static/js/main.4d361ba4.chunk.js.map",
+  "static/js/1.6105a37c.chunk.js": "/anthropolocast/static/js/1.6105a37c.chunk.js",
+  "static/js/1.6105a37c.chunk.js.map": "/anthropolocast/static/js/1.6105a37c.chunk.js.map",
+  "runtime~main.js": "/anthropolocast/static/js/runtime~main.0056abbf.js",
+  "runtime~main.js.map": "/anthropolocast/static/js/runtime~main.0056abbf.js.map",
+  "static/media/logo.svg": "/anthropolocast/static/media/logo.5d5d9eef.svg",
+  "static/css/main.c7e85a2f.chunk.css.map": "/anthropolocast/static/css/main.c7e85a2f.chunk.css.map",
+  "index.html": "/anthropolocast/index.html",
+  "precache-manifest.146cc1aed605e54e24f3fe001520e4ef.js": "/anthropolocast/precache-manifest.146cc1aed605e54e24f3fe001520e4ef.js",
+  "service-worker.js": "/anthropolocast/service-worker.js"
 }
