@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://anthropolocast.com",
   "dependencies": {
+    "auth0-js": "^9.8.0",
     "gh-pages": "^2.0.1",
     "rc-slider": "^8.6.1",
     "react": "^16.5.2",
