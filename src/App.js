@@ -1,8 +1,17 @@
 import React, { Component } from 'react';
+import Auth from './auth';
 import logo from './logo.svg';
 import './App.css';
 
+const auth = new Auth();
+
 class App extends Component {
+
+  componentDidMount() {
+    console.log('component mounted');
+    auth.login();
+  }
+
   render() {
     return (
       <div className="App">
